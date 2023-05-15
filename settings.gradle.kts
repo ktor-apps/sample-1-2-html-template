@@ -1,0 +1,1 @@
+rootProject.name = "sample-1-2-html-template"
